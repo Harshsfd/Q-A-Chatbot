@@ -3,3 +3,4 @@ pandas==2.2.2
 plotly==5.22.0
 extra-streamlit-components==0.1.62
 python-dateutil==2.9.0
+extra-streamlit-components>=0.1.62
